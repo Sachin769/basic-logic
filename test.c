@@ -9,4 +9,4 @@ void main()
         fact=fact*i;
     }
     printf("\nfactorial of a %d is %d",n,fact);
-}
+}hii
