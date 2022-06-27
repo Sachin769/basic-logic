@@ -10,3 +10,4 @@ void main()
     }
     printf("\nfactorial of a %d is %d",n,fact);
 }
+the optimiz code is o(n-1)
