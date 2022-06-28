@@ -10,3 +10,4 @@ void main()
     }
     printf("\nfactorial of a %d is %d",n,fact);
 }hii
+time complexity of fact is o(n-1)
